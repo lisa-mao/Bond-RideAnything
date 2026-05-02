@@ -1,2 +1,5 @@
 .env
 .node_modules
+
+documents/docstore.json
+documents/faiss.index
